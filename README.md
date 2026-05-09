@@ -49,6 +49,7 @@ Bangalore Pincode Explorer/
 
 ---
 ## 📦 Installation & Setup
+Live Demo: https://bangalore-pincode-explorer.netlify.app/
 
 ### 1️⃣ Clone the repository
 ```bash
